@@ -9,4 +9,4 @@ Use ./fifteen "Grid of you size"  to execute the file.
 To play this game choose the immediate neighbour number to swap with the cursor or dash.
 
 
-enjoy playing!!!!!!
+enjoy playing!!!!!!!!
